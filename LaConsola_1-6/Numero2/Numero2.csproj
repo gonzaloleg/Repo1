@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{00457091-DD60-493D-8CA8-35D0649F70CF}</ProjectGuid>
+    <ProjectGuid>{C03128B0-EA37-45EA-A40D-097D6D6AED91}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>A881861.Actividad01</RootNamespace>
-    <AssemblyName>A881861.Actividad01</AssemblyName>
+    <RootNamespace>Numero2</RootNamespace>
+    <AssemblyName>Numero2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
