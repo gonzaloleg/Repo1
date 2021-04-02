@@ -1,0 +1,7 @@
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\Cadenas_7-14\Numero13\obj\Debug\Numero13.csproj.CoreCompileInputs.cache
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\Cadenas_7-14\Numero13\bin\Debug\Numero13.exe.config
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\Cadenas_7-14\Numero13\bin\Debug\Numero13.exe
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\Cadenas_7-14\Numero13\bin\Debug\Numero13.pdb
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\Cadenas_7-14\Numero13\obj\Debug\Numero13.csprojAssemblyReference.cache
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\Cadenas_7-14\Numero13\obj\Debug\Numero13.exe
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\Cadenas_7-14\Numero13\obj\Debug\Numero13.pdb
