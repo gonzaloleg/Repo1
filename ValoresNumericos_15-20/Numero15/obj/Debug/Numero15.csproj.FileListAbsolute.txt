@@ -1,0 +1,7 @@
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\ValoresNumericos_15-20\Numero15\bin\Debug\Numero15.exe.config
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\ValoresNumericos_15-20\Numero15\bin\Debug\Numero15.exe
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\ValoresNumericos_15-20\Numero15\bin\Debug\Numero15.pdb
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\ValoresNumericos_15-20\Numero15\obj\Debug\Numero15.csprojAssemblyReference.cache
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\ValoresNumericos_15-20\Numero15\obj\Debug\Numero15.csproj.CoreCompileInputs.cache
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\ValoresNumericos_15-20\Numero15\obj\Debug\Numero15.exe
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\ValoresNumericos_15-20\Numero15\obj\Debug\Numero15.pdb

@@ -1,0 +1,7 @@
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\ValoresNumericos_15-20\Numero20\bin\Debug\Numero20.exe.config
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\ValoresNumericos_15-20\Numero20\bin\Debug\Numero20.exe
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\ValoresNumericos_15-20\Numero20\bin\Debug\Numero20.pdb
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\ValoresNumericos_15-20\Numero20\obj\Debug\Numero20.csproj.CoreCompileInputs.cache
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\ValoresNumericos_15-20\Numero20\obj\Debug\Numero20.exe
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\ValoresNumericos_15-20\Numero20\obj\Debug\Numero20.pdb
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\ValoresNumericos_15-20\Numero20\obj\Debug\Numero20.csprojAssemblyReference.cache
