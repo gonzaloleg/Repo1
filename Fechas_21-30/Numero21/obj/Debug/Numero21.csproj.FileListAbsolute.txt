@@ -1,0 +1,7 @@
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\Fechas_21-30\Numero21\bin\Debug\Numero21.exe.config
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\Fechas_21-30\Numero21\bin\Debug\Numero21.exe
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\Fechas_21-30\Numero21\bin\Debug\Numero21.pdb
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\Fechas_21-30\Numero21\obj\Debug\Numero21.csprojAssemblyReference.cache
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\Fechas_21-30\Numero21\obj\Debug\Numero21.csproj.CoreCompileInputs.cache
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\Fechas_21-30\Numero21\obj\Debug\Numero21.exe
+C:\Users\GonzaloJavierLeguiza\source\repos\CAI_\Fechas_21-30\Numero21\obj\Debug\Numero21.pdb
